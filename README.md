@@ -1,5 +1,5 @@
 # career-with-mb courses
-## [Engineering Practices] (engineering-practices.md)
+## * <a href="engineering-practices.md">Engineering Practices</a>
 ## Tester to product manager
 ## Product manager design thinking
 ## Full stack
